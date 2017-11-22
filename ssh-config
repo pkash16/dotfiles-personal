@@ -1,0 +1,10 @@
+#CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User prakashk
+	Compression yes
+#CAEN oncampus
+Host oncampus
+	HostName on-campus.engin.umich.edu
+	User prakashk
+	Compression yes
